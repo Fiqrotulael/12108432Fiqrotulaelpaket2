@@ -32,7 +32,7 @@
 
 				<form class="login100-form validate-form">
 					<span class="login100-form-title">
-						Member Login
+						Member Register
 					</span>
 
 					<div class="wrap-input100 validate-input" data-validate = "Valid email is required: ex@abc.xyz">
@@ -53,19 +53,9 @@
 					
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							Login
+							Sumbit
 						</button>
 					</div>
-
-					<div class="text-center p-t-12">
-						<span class="txt1">
-							Forgot
-						</span>
-						<a class="txt2" href="#">
-							Username / Password?
-						</a>
-					</div>
-
 					<div class="text-center p-t-136">
 						<a class="txt2" href="#">
 							Create your Account

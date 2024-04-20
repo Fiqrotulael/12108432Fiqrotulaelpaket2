@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('sales', function (Blueprint $table) {
             $table->id();
             $table->sales_date();
-            $table->
-            $table->timestamps();
+            $table->timestamps_created(); 
+            $table->timestamps_updated();
         });
     }
 
