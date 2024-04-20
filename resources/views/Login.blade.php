@@ -52,12 +52,15 @@
 					</div>
 					
 					<div class="container-login100-form-btn">
-						<button class="login100-form-btn">
-							Sumbit
-						</button>
+						<a class="txt2" href="/">
+							<button class="login100-form-btn">
+								Sumbit
+							</button>
+						</a>
+						
 					</div>
 					<div class="text-center p-t-136">
-						<a class="txt2" href="1">
+						<a class="txt2" href="2">
 							Create your Account
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
